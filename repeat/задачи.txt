@@ -1,0 +1,164 @@
+Задача                  Статус          Отправлено
+
+hello                   epic win            2018-02-12 00:50:13
+arithmetic              epic win            2018-02-18 16:46:04
+comparison              epic win            2018-02-18 17:19:42
+isEven                  epic win            2018-02-24 15:02:30
+isOdd                   epic win            2018-02-24 16:36:08
+nextEven                epic win            2018-03-24 14:23:26
+nextOdd                 epic win            2018-03-24 14:38:01
+prevEven                code works          2018-02-24 20:19:20
+prevOdd                 code works          2018-02-24 20:23:36
+max2                    epic win            2018-02-24 20:31:05
+max3                    epic win            2018-02-24 21:12:12
+max4                    epic win            2018-02-25 12:17:48
+max5                    epic win            2018-02-25 12:23:36
+isMultiple              epic win            2018-02-25 13:04:37
+isEqual                 epic win            2018-02-25 13:07:44
+isLeap                  epic win            2018-02-25 13:13:01
+isLegalAge              almost win          2018-02-25 13:43:53
+isPositive              epic win            2018-02-25 14:11:19
+car                     code works          2018-02-25 14:53:11
+abcz1                   epic win            2018-02-25 16:30:40
+abcz2                   code works          2018-03-15 01:42:42
+abcz3                   epic win            2018-02-25 19:06:21
+logic                   epic win            2018-02-25 12:39:34
+abcz4                   epic win            2018-02-25 19:30:52
+sum()                   epic win            2018-03-10 16:58:02
+max2()                  epic win            2018-03-10 17:08:01
+pointerIncrement()      epic win            2018-03-10 17:24:27
+football                code works          2018-03-10 18:55:32
+password                code works          2018-03-10 19:54:59
+equation                code works          2018-03-10 21:18:15
+maxDivisor              code works          2018-03-10 21:34:06
+isSorted                code works          2018-03-10 21:44:29
+callCost                code works          2018-03-10 22:21:31
+countdown               epic win            2018-03-10 22:44:04
+isPowerOf2  
+natural                 epic win            2018-03-10 23:50:18
+even                    epic win            2018-03-11 00:45:13
+odd                     epic win            2018-03-12 16:45:14
+multiple3               epic win            2018-03-12 19:26:25
+multiple5               epic win            2018-03-12 19:38:15
+multipleN               epic win            2018-03-13 21:14:31
+nextMultiple            epic win            2018-03-14 19:03:32
+prevMultiple            epic win            2018-03-14 19:16:36
+div2                    epic win            2018-03-14 19:33:34
+div3                    epic win            2018-03-15 01:29:15
+div5                    epic win            2018-03-15 01:28:36
+divN                    epic win            2018-03-15 01:52:46
+powerOf2                code works          2018-03-15 03:23:16
+powerOfX                code works          2018-03-15 04:05:34
+maxN                    code works          2018-03-15 16:08:01
+minN                    code works          2018-03-15 16:27:59
+amoeba                  code works          2018-03-15 16:50:41
+evenSquare              code works          2018-03-15 17:50:20
+oddCubed                code works          2018-03-15 18:42:43
+isSortedN               code works          2018-03-15 19:01:40
+divisorCounter          code works          2018-03-15 19:09:51
+ariProg                 code works          2018-03-15 19:17:19
+even2                   code works          2018-03-15 19:37:26
+odd2                    epic win            2018-03-15 19:49:44
+factorial               almost win          2018-03-15 20:53:18
+square1                 epic win            2018-03-15 22:14:34
+square2                 epic win            2018-03-16 02:06:51
+square2rev              code works          2018-03-15 23:45:17
+pyramid1                epic win            2018-03-16 00:11:52
+pyramid1rev             epic win            2018-03-16 01:50:14
+pyramid2                epic win            2018-03-16 02:04:17
+pyramid2rev     
+pyramid                 epic win            2018-04-01 03:53:35
+isPrime()               code works          2018-03-16 20:21:52
+prime                   code works          2018-03-16 22:53:57
+crypt                   code works          2018-03-17 09:24:53
+pascal  
+pascal2     
+pythagoras  
+fractions   
+average()               epic win            2018-03-16 18:40:45
+average2()  
+places                  code works          2018-04-17 21:37:27
+base                    code works          2018-03-17 17:27:38
+bitwise                 epic win            2018-04-15 13:52:04
+frob                    code works          2018-04-18 19:27:18
+powerOf2()              epic win            2018-04-18 19:49:32
+fileSum                 code works          2018-03-17 14:14:01
+sequenceLen             code works          2018-03-17 14:28:05
+factorial()             almost win          2018-04-15 17:44:16
+fibonacci()             epic win            2018-04-15 17:24:46
+gcd()                   epic win            2018-04-18 20:45:20
+lcm                     code works          2018-04-18 22:05:06
+divMN                   code works          2018-04-19 22:22:03
+bitSequences    
+bitSequences2   
+hamming     
+hammingCount    
+upperCase               code works          2018-04-19 23:15:29
+lowerCase               code works          2018-04-19 23:41:38
+base2                   code works          2018-05-18 23:45:06
+array                   epic win            2018-05-16 21:55:52
+arrayPrint()            epic win            2018-04-14 17:14:34
+arrayZeroFill()         epic win            2018-04-14 19:02:09
+arrayIncrement()        epic win            2018-05-10 18:42:22
+arrayScan()             almost win          2018-05-16 23:08:27
+arrayPrintReversed()    code works          2018-05-10 20:50:40
+arrayAbs()              epic win            2018-05-10 21:09:37
+intScan()               epic win            2018-05-10 21:12:30
+abs                     code works          2018-05-12 21:32:46
+arrayCopy()             epic win            2018-05-12 21:43:14
+arraySum()              epic win            2018-05-14 16:47:07
+arrayMax()              epic win            2018-05-14 17:01:03
+arrayMin()              epic win            2018-05-14 17:13:02
+arraySearch()           epic win            2018-05-14 17:24:25
+lsearch                 code works          2018-05-14 18:16:10
+arrayReverse()          almost win          2018-05-14 19:30:43
+arrayShiftRight()       almost win          2018-05-15 18:22:50
+arrayShiftLeft()        epic win            2018-05-15 18:05:53
+arrayExchange()         almost win          2018-05-15 23:19:36
+sliceReverse()          epic win            2018-05-16 13:25:30
+sliceShiftLeft()        epic win            2018-05-16 13:55:49
+sliceShiftRight()       epic win            2018-05-16 14:15:57
+arraySort()             code works          2018-05-16 16:22:24
+strLen()                epic win            2018-05-16 17:11:16
+strlen                  code works          2018-05-16 19:53:10
+strReverse              code works          2018-05-16 20:22:28
+strEqual()              almost win          2018-05-17 13:39:58
+strEqual                code works          2018-05-17 15:53:22
+strCopy()               almost win          2018-05-17 16:14:17
+strUpperCase()          code works          2018-05-17 18:54:48
+strLowerCase()          code works          2018-05-17 19:04:17
+strRot13()              code works          2018-05-17 22:01:33
+rot13                   code works          2018-05-17 22:10:23
+calc    
+Point                   epic win            2018-05-18 19:48:53
+Vector                  almost win          2018-05-18 20:18:27
+Complex                 code works          2018-05-18 22:22:34
+matrixScan              epic win            2018-05-19 21:07:08
+matrixPrint             epic win            2018-05-19 19:44:28
+matrixMultiply  
+matrixCopy              epic win            2018-05-19 14:29:17
+matrixDecrement     
+matrixIncrement     
+matrixRotate90          code works          2018-05-19 16:44:29
+matrixRotate180     
+matrixRotate270         code works          2018-05-19 16:49:53
+transform   
+arrayMerge()    
+arrayShift()    
+arrayUnique()   
+fibonacci   
+hopper  
+board   
+bubbleSort()            code works          2018-05-20 13:00:44
+selectSort()            code compiles       2018-05-20 13:14:13
+insertSort()    
+merge()     
+mergeSort   
+mergeSort()     
+partition()     
+quickSort   
+barn    
+charCount   
+binarySequence  
+binarySequence2     
+milk    
